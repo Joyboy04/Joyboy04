@@ -4,5 +4,5 @@
 ---
 ### A Web Developer by day ☼ and an Cloud Engineer by night ☾
 
-Computer Science Student at President University Student Union (PUSU);<br>
-Cloud Computing Cohort at Bangkit Academy;<br>
+Web Developer at President University Student Union (PUSU);<br>
+Cloud Computing Graduate at Bangkit Academy;<br>
